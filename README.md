@@ -5,37 +5,50 @@ The main objective was to clean raw sales data, remove duplicates, and create me
 
 # Tools & Technologies Used
 
-Python
+.Python
 
-Pandas
+.Pandas
 
-Jupyter Notebook
+.Jupyter Notebook
 
-Microsoft Excel
+.Microsoft Excel
 
 # Project Workflow
 
 .Imported and analyzed raw sales dataset
+
 .Performed data cleaning using Pandas
+
 .Removed duplicate records and handled missing values
+
 .Processed and formatted data for analysis
+
 .Created Pivot Tables in Excel
+
 .Designed an interactive Dashboard using charts and slicers
 
 # Key Insights
 
 .Top-selling products and categories
+
 .Region-wise and state-wise sales performance
+
 .Monthly sales trends
+
 .Profit and revenue analysis
 
 # Skills Gained
 
 .Data Cleaning
+
 .Data Analysis
+
 .Data Visualization
+
 .Pivot Table Creation
+
 .Dashboard Design
+
 .Business Insight Generation
 
 # Project Outcome
