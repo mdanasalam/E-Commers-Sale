@@ -6,8 +6,11 @@ The main objective was to clean raw sales data, remove duplicates, and create me
 # Tools & Technologies Used
 
 Python
+
 Pandas
+
 Jupyter Notebook
+
 Microsoft Excel
 
 # Project Workflow
